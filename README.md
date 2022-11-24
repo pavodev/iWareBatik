@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/docs/animation/animation.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/47891529/203758404-92851b75-f3a7-46c8-b9d2-324d04eafeb6.png" width="150">
 </p>
 <h1 align="center">iWareBatik</h1>
 
