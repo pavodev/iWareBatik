@@ -1,53 +1,21 @@
 <p align="center">
   <img src="/docs/animation/animation.gif" width="150">
 </p>
-<h1 align="center">Mobile App Landing Page Template</h1>
-<p>
-  <a href="https://twitter.com/sandochee">
-    <img alt="Twitter: sandochee" src="https://img.shields.io/twitter/follow/sandochee.svg?style=social" target="_blank" />
-  </a>
-</p>
+<h1 align="center">iWareBatik</h1>
 
-📱 Free to use static generated landing page template for your mobile app
+The iWareBatik mobile app displays most of the common Batik motifs, meanings and socio-cultural elements of Batik in 34 provinces in Indonesia. Through interactive features, users can explore the uniqueness of the best tourist spots spread in 34 provinces of Indonesia. This application presents the world of Batik and its diversity which is reflected from Western to the Eastern part of Indonesia through images, videos about Batik production in each region and Batik fashion show events. iWareBatik can be accessed in 2 languages, namely English and Indonesian in order to facilitate the Indonesian and global learners in understanding the exquisite cultural elements of traditional Batik textile.
+
+The iWareBatik mobile app is also equipped with Artificial Intelligence – neural machine learning that functions to recognize Batik Pattern captured from the camera feature in the mobile app.  
 
 ## 💡 Features
-Mobile App Landing Page Template comes with pre-installed features and options:
-- Display app icon
-- Show unlimited app screenshots
-- Link to Google Play
-- Link to the AppStore
-- Link to the Web App
-- Press mention section
-- Product Hunt floating prompt
-- Privacy policy Page
-- Google Analytics
-- Cookie Consent
-- Automatic dark theme
-- Doorbell widget
-- Github forking banner
-
-## ✨ Demo
-Check out websites using the Mobile App Template:
-- https://mobileapplandingpage.learn.uno (demo website)
-- https://gitnews.learn.uno
-- https://textblast.learn.uno
-- https://infinideas.learn.uno
-- https://www.therandominion.com/
-
-## 📖 How to use
-1. Fork this project
-2. Edit `_config.yml`, feel free to commut/uncomment what you need (google analtytics, or github for example)
-3. Edit `_data/app.yml` with your app data
-4. Update the text from `_data/strings.yml`, you can customize there the footer's links
-5. Edit icons and screenshots inside the `_images` folder and `icon.png` in the root
-6. Edit `_src/index.js` to update the product hunt modal (or to remove it) and to remove the darkmode plugin if you don't want it
-7. Deploy (on netlify, gitpages or surge, they are all free)
+- Explore 34 provinces with images, videos, etc.
+- Discover Indonesian batiks
+- Recognize Batik patterns using your smarphone's camera.
 
 ## ⚙️ How to run
 
 ### Pre-requisites
 - NodeJS
-- Ruby, Bundler
 
 ### Install
 ```
@@ -57,32 +25,10 @@ bundler install
 
 ### Development
 ```
-npm start
+ionic cordova run start
 ```
 
 ### Build
 ```
 npm run build
 ```
-
-### Deploy to netlify (for free)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sandoche/Mobile-app-landingpage-template)
-
-### More documentation
-This templates uses [Jekyll-webpack-boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate), read more documentation there.
-
-## 🤝 Contributing
-Contributions, issues and feature requests are welcome!
-
-## ⭐️ Show your support
-Please ⭐️ this repository if this project helped you!
-
-<a href="https://www.patreon.com/sandoche">[![patreon.png](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/sandoche)</a>
-
-## 🍺 Buy me a beer 
-If you like this project, feel free to donate:
-* PayPal: https://www.paypal.me/kanbanote
-* Bitcoin: 19JiNZ1LkMaz57tewqJaTg2hQWH4RgW4Yp
-* Ethereum: 0xded81fa4624e05339924355fe3504ba9587d5419
-* Monero: 43jqzMquW2q989UKSrB2YbeffhmJhbYb2Yxu289bv7pLRh4xVgMKj5yTd52iL6x1dvCYs9ERg5biHYxMjGkpSTs6S2jMyJn
-* Motive: MOTIV-25T5-SD65-V7LJ-BBWRD (Get Motive Now: https://motive.network)
